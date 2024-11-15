@@ -8,6 +8,9 @@ import android.view.ViewGroup
 
 class LoginFragment : Fragment() {
 
+    private var _binding: LoginFragment? = null
+    private val binding get() = _binding!!
+
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
