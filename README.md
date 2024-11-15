@@ -21,4 +21,4 @@ https://www.figma.com/design/6B9c2sc1QPhL0HpUttJHzK/Economize?node-id=0-1&t=OIH5
 
 ## Instalação
 - Clone o Repositório
-
+https://github.com/ShinjiTani67/GlobalSolution-EconomizeApp-Mobile.git
